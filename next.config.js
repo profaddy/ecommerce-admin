@@ -9,7 +9,6 @@ const nextConfig = {
     GOOGLE_SECRET: "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",
     S3_ACCESS_KEY: "AKIAWM2WXZCGNHZSW5JX",
     S3_SECRET_ACCESS_KEY: "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",
-    NODE_ENV: "development",
   },
 };
 
