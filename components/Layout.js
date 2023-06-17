@@ -4,7 +4,7 @@ import { useState } from "react";
 import Logo from "@/components/Logo";
 
 export default function Layout({ children }) {
-  console.log(process.env.APP_ENV, process.env.GOOGLE_ID);
+  console.log(process.env.APP_ENV);
   const [showNav, setShowNav] = useState(false);
   const { data: session } = useSession();
   if (!session) {
