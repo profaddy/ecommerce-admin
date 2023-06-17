@@ -11,7 +11,7 @@ const nextConfig = {
     S3_SECRET_ACCESS_KEY: "yPW6krmuJjsE+3lwhvdw3SS6S+9BrqJX0aPDe9hA",
     SECRET: "JiuMPZ9qq0*|!YPu",
     APP_ENV: "development",
-    NEXTAUTH_URL: "https://main.dk24ni53om5j0.amplifyapp.com",
+    // NEXTAUTH_URL: "https://main.dk24ni53om5j0.amplifyapp.com",
   },
 };
 
