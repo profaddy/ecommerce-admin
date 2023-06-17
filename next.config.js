@@ -10,6 +10,7 @@ const nextConfig = {
     S3_ACCESS_KEY: "AKIAWM2WXZCGNHZSW5JX",
     S3_SECRET_ACCESS_KEY: "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",
     SECRET: "JiuMPZ9qq0*|!YPu",
+    NODE_ENV: "development",
   },
 };
 
